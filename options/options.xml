@@ -1,0 +1,50 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.172" value="10" />
+    <property name="installed.kotlin.plugin.version" value="1.1.3-release-IJ2017.2-2" />
+    <property name="android-component-compatibility-check" value="1565012110425" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="file.chooser.recent.files" value="D:/&#10;C:/Program Files/Git/bin/bash.exe&#10;H:/GitHub/DesignPatterns&#10;H:/GitHub/DesignPatterns/DesignPatterns&#10;H:/GitHub/bilibili-go-code&#10;H:/GitHub/geektime-spring-family/Chapter 4&#10;H:/GitHub/geektime-spring-family/Chapter 5/simple-reactor-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 5/simple-r2dbc-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 5/r2dbc-repository-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 5/performance-aspect-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 5/redis-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 5/mongodb-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 5&#10;H:/GitHub/geektime-spring-family/Chapter 4/redis-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 4/jedis-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 4/cache-with-redis-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 4/cache-demo/pom.xml&#10;H:/GitHub/geektime-spring-family/Chapter 3&#10;H:/GitHub/geektime-spring-family/Chapter 1&#10;H:/GitHub/geektime-spring-family/Chapter 1/helloworld/pom.xml&#10;H:/GitHub/geektime-spring-family&#10;H:/vuejs-172.3544.10.zip&#10;H:/GitHub/vue2-elm&#10;C:/Users/th/Downloads/vuejs-182.4129.13.zip&#10;H:/GitHub/SpringAOPDemo/pom.xml&#10;H:/GitHub/PLMCodeTemplate/source/pom.xml&#10;H:/GitHub/spring-framework-3.2.x&#10;C:/JavaDK/jdk1.7.0_80_x64&#10;C:/gradle-4.8.1&#10;C:/JavaDK/jdk1.8.0_161" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="2" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="file.gist.reindex.count" value="15963" />
+    <property name="kotlin.lastUpdateCheck" value="1565266541923" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8260255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="last.imported.location" value="H:/GitHub/DesignPatterns" />
+    <property name="evlsprt.172" value="162d8939dea" />
+    <property name="evlsprt2.172" value="162aa27bac4" />
+    <property name="ProjectStructure.TopLevelElements" value="0.14746094" />
+    <property name="last.used.gradle.home" value="C:/gradle-4.8.1" />
+    <property name="PLUGIN_FILTER" value="sett&#10;git&#10;gitig&#10;readme&#10;go" />
+    <property name="KEYMAP" value="maven&#10;commit&#10;termi&#10;tran" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10840108" />
+    <property name="SplitFileEditor.Proportion" value="0.8006431" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="plugins.preselection.path" value="H:/" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="project.jdk.splitter" value="0.19971265" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="go.last.update.timestamp" value="1565263562484" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.19971265" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="idea" />
+    <property name="export.settings.path" value="D:\idea-settings.jar" />
+  </component>
+</application>

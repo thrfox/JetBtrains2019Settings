@@ -1,0 +1,294 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="H:/GitHub/TestDriveDepverlop" />
+        <option value="H:/GitHub/DesignPatterns" />
+        <option value="H:/GitHub/bilibili-go-code" />
+        <option value="I:/Java/JavaStudy" />
+        <option value="H:/GitHub/spring-boot-cloud" />
+        <option value="H:/GitHub/ioc" />
+        <option value="H:/GitHub/iocTest" />
+        <option value="H:/GitHub/interface21" />
+        <option value="H:/GitHub/geektime-spring-family/Chapter 4" />
+        <option value="H:/GitHub/geektime-spring-family/Chapter 5" />
+        <option value="H:/GitHub/geektime-spring-family/Chapter 3" />
+        <option value="H:/GitHub/geektime-spring-family/Chapter 1/helloworld" />
+        <option value="H:/GitHub/geektime-spring-family" />
+        <option value="H:/GitHub/JavaWebStudy" />
+        <option value="H:/GitHub/x-boot" />
+        <option value="H:/GitHub/vue2-manage" />
+        <option value="H:/GitHub/vue2-elm" />
+        <option value="H:/GitHub/SpringAOPDemo" />
+        <option value="H:/GitHub/PLMCodeTemplate/source" />
+        <option value="H:/GitHub/spring-framework-3.2.x" />
+        <option value="H:/GitHub/resume-website" />
+        <option value="H:/GitHub/resume" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="H:/GitHub/TestDriveDepverlop" />
+      </list>
+    </option>
+    <option name="lastPath" value="H:/GitHub/TestDriveDepverlop" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="H:/GitHub/DesignPatterns">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565416820807" />
+              <option name="buildTimestamp" value="1501515077698" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/JavaWebStudy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1551695616368" />
+              <option name="buildTimestamp" value="1501515091145" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/PLMCodeTemplate/source">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534065404108" />
+              <option name="buildTimestamp" value="1501515082453" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/SpringAOPDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534077653810" />
+              <option name="buildTimestamp" value="1501515082453" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/TestDriveDepverlop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565430914021" />
+              <option name="buildTimestamp" value="1501515070476" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/bilibili-go-code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565263560774" />
+              <option name="buildTimestamp" value="1501515117280" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/geektime-spring-family">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553068598225" />
+              <option name="buildTimestamp" value="1501515093449" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/geektime-spring-family/Chapter 1/helloworld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553145805017" />
+              <option name="buildTimestamp" value="1501515081755" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/geektime-spring-family/Chapter 3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553146005751" />
+              <option name="buildTimestamp" value="1501515081755" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/geektime-spring-family/Chapter 4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553267935514" />
+              <option name="buildTimestamp" value="1501515111144" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/geektime-spring-family/Chapter 5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553162551641" />
+              <option name="buildTimestamp" value="1501515081755" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/interface21">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556288354280" />
+              <option name="buildTimestamp" value="1501515069119" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/ioc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562495143958" />
+              <option name="buildTimestamp" value="1501515098702" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/iocTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556288775978" />
+              <option name="buildTimestamp" value="1501515069119" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/resume">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522496694254" />
+              <option name="buildTimestamp" value="1501515087727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/resume-website">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523273137278" />
+              <option name="buildTimestamp" value="1501515092644" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/spring-boot-cloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565081800055" />
+              <option name="buildTimestamp" value="1501515116461" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/spring-framework-3.2.x">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530105989366" />
+              <option name="buildTimestamp" value="1501515085272" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/vue2-elm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535736146497" />
+              <option name="buildTimestamp" value="1501515081641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/vue2-manage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543320317806" />
+              <option name="buildTimestamp" value="1501515074612" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/GitHub/x-boot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543934953865" />
+              <option name="buildTimestamp" value="1501515069647" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="I:/Java/JavaStudy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565082577324" />
+              <option name="buildTimestamp" value="1501515116461" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="I:/Java/JavaStudy/xml">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3544.35" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521460954944" />
+              <option name="buildTimestamp" value="1501515085735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="H:/GitHub" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Javap -v" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$\bin\javap.exe" />
+      <option name="PARAMETERS" value="-v $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$" />
+    </exec>
+  </tool>
+</toolSet>

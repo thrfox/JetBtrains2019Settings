@@ -1,0 +1,29 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.Jdbc.Close" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+</keymap>

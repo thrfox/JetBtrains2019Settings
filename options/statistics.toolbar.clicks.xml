@@ -1,0 +1,47 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="$ShowTranslationDialogAction@NavBarToolbar" count="5" />
+      <entry action="Debug@NavBarToolbar" count="14" />
+      <entry action="ExternalSystem.AttachProject@Gradle_View_Toolbar" count="2" />
+      <entry action="ExternalSystem.RefreshAllProjects@Gradle_View_Toolbar" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="Gradle.ExecuteTask@Gradle_View_Toolbar" count="2" />
+      <entry action="Maven.AddManagedFiles@Maven_Navigator_Toolbar" count="12" />
+      <entry action="Maven.CollapseAll@Maven_Navigator_Toolbar" count="2" />
+      <entry action="Maven.DownloadAllGroupPopup@Maven_Navigator_Toolbar" count="9" />
+      <entry action="Maven.ExecuteGoal@Maven_Navigator_Toolbar" count="4" />
+      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="12" />
+      <entry action="Maven.ShowSettings@Maven_Navigator_Toolbar" count="2" />
+      <entry action="Maven.UpdateFolders@Maven_Navigator_Toolbar" count="6" />
+      <entry action="Rerun@RunnerToolbar" count="4" />
+      <entry action="Resume@DebuggerToolbar" count="2" />
+      <entry action="Run@NavBarToolbar" count="106" />
+      <entry action="ShowUmlDiagram@Maven_Navigator_Toolbar" count="7" />
+      <entry action="Stop@NavBarToolbar" count="4" />
+      <entry action="Stop@RunnerToolbar" count="4" />
+      <entry action="UML.ActualSize@Diagrams" count="2" />
+      <entry action="UML.PrintPreview@Diagrams" count="2" />
+      <entry action="UML.ZoomOut@Diagrams" count="5" />
+      <entry action="com.intellij.find.editorHeaderActions.FindAllAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="144" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="11" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="4" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="28" />
+      <entry action="com.intellij.openapi.vcs.changes.actions.RollbackDialogAction@ChangesBrowser" count="1" />
+      <entry action="com.intellij.openapi.vcs.ex.LineStatusTrackerDrawing$ToggleByWordDiffAction@toolbar" count="2" />
+      <entry action="com.intellij.tools.BaseToolsPanel$3@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="11" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="4" />
+      <entry action="com.intellij.uml.core.actions.visibility.UmlVisibilityActionGroup@Diagrams" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction@EditorToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction@EditorToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction@EditorToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction@EditorToolbar" count="2" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction@EditorToolbar" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="8" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="7" />
+    </counts>
+  </component>
+</application>

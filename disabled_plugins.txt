@@ -1,0 +1,3 @@
+cn.yiiguxing.plugin.translate
+org.jetbrains.kotlin
+org.jetbrains.plugins.go
