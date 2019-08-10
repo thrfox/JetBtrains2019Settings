@@ -1,0 +1,51 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="7" />
+      <entry feature="OpenInBrowser.Chrome" count="2" />
+      <entry feature="OpenInBrowser.default" count="11" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="7" />
+      <entry feature="debugger.reload.classes" count="1" />
+      <entry feature="diff.DirDiffTableModel" count="1" />
+      <entry feature="diff.DirDiffViewer" count="1" />
+      <entry feature="execute.Application.Debug" count="9" />
+      <entry feature="execute.Application.Run" count="226" />
+      <entry feature="execute.JUnit.Debug" count="17" />
+      <entry feature="execute.JUnit.Run" count="40" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="7" />
+      <entry feature="git.branch.merge" count="1" />
+      <entry feature="git.branch.rebase" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="3" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Deployment" count="1" />
+      <entry feature="ide.settings.External_Tools" count="2" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.HTTP_Proxy" count="1" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Plugins" count="9" />
+      <entry feature="ide.settings.Project_Structure" count="5" />
+      <entry feature="ide.settings.SSH_Terminal" count="1" />
+      <entry feature="ide.settings.Terminal" count="4" />
+      <entry feature="ideaapp.started" count="78" />
+      <entry feature="project.view.pane.AndroidView" count="2" />
+      <entry feature="project.view.pane.PackagesPane" count="10" />
+      <entry feature="project.view.pane.ProjectPane" count="8" />
+      <entry feature="project.view.pane.Scope.Default" count="1" />
+      <entry feature="project.view.pane.Scope.Problems" count="2" />
+      <entry feature="project.view.pane.Scope.Production" count="3" />
+      <entry feature="project.view.pane.Scope.Project Files" count="4" />
+      <entry feature="project.view.pane.Scope.Tests" count="3" />
+      <entry feature="project.view.pane.Scratches" count="1" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="21" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="10" />
+      <entry feature="terminal.win" count="39" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="10" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="5" />
+    </counts>
+  </component>
+</application>

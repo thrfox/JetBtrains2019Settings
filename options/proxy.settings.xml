@@ -1,0 +1,11 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="103.214.68.12" />
+    <option name="PROXY_PORT" value="2086" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="127.0.0.1" />
+  </component>
+</application>
