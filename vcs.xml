@@ -14,6 +14,10 @@
           <option name="url" value="ssh://mazhuquan@demo.rjtx.net:29418/PatrolSystem.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dafrok/vue-baidu-map.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project\Work" />
